@@ -1,5 +1,5 @@
 <h1 align="center">Hi :hand:, I'm Etienne</h1>
-<p align="center">A passionate frontend developer from France :fr:</p>
+<p align="center">A passionate developer from France :fr:</p>
 
 <center>
 
