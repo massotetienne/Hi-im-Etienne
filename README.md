@@ -1,4 +1,4 @@
-<h1 align="center">Hi :hand:, I'm Souka</h1>
+<h1 align="center">Hi :hand:, I'm Etienne</h1>
 <p align="center">A passionate frontend developer from France :fr:</p>
 
 <center>
@@ -7,7 +7,7 @@ I started web development in 2020, because I wanted to discover the digital busi
 
 </center>
 
-- :email: soukainataattoumani@yahoo.fr
+- :email: massot.etiennepro@gmail.com
 
 - :smile: Fun fact : I am passionate about japanimation and manga.
 
@@ -20,7 +20,7 @@ I started web development in 2020, because I wanted to discover the digital busi
 | :---                        | :----:           |    ---: |
 | Application Developer       | in progress      | 2022    |
 | Web and Mobile Web Developer| yes              | 2020    |
-| Vocational Baccalauréat     | yes              | 2008    |
+
 
 </center>
 
