@@ -9,7 +9,7 @@ I started web development in 2020, because I wanted to discover the digital busi
 
 - :email: massot.etiennepro@gmail.com
 
-- :smile: Fun fact : I am passionate about japanimation and manga.
+- :smile: Fun fact : I am passionate about japanimation and manga & Fan of Final Fantasy.
 
 
 <h1 align="center">Course</h1>
