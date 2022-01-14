@@ -36,7 +36,7 @@ I started web development in 2020, because I wanted to discover the digital busi
 </center>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/soukainata-attoumani-39131b13b/" rel="nofollow noreferrer">
+ <a href="https://www.linkedin.com/in/etienne-massot-8398b31b8/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </p>
